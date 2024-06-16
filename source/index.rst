@@ -1,9 +1,9 @@
-.. sphinx documentation master file, created by
+.. Sphinx documentation master file, created by
    sphinx-quickstart on Sun Jun 16 11:11:37 2024.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to sphinx's documentation!
+Welcome to Sphinx's documentation!
 =============================================
 
 .. epigraph:: Sphinx makes it easy to create intelligent and beautiful documentation.

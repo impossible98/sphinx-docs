@@ -1,0 +1,15 @@
+{
+  "name": "sphinx-docs",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "format": "prettier . --check",
+    "format:fix": "prettier . --write --cache"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^17.0.0",
+    "@commitlint/config-conventional": "^17.0.0",
+    "lefthook": "^1.6.12",
+    "prettier": "^3.0.0"
+  }
+}

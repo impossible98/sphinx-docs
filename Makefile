@@ -31,7 +31,6 @@ fix:
 install: version
 	pip install --requirement requirements.txt
 	yarn install --frozen-lockfile
-	npm install --global netlify-cli
 # 查看提交历史记录
 log:
 	git log --oneline --decorate --graph --all
